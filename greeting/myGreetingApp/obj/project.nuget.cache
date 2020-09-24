@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MpN9wZMtk8980e3cXDTWJvhc2PUJx7V2W0iBPmShuI3ICANJ/EgXOcKds8+qPCWLiA8jOeb0ACEjlTeg+SfHkg==",
+  "success": true,
+  "projectFilePath": "/home/dmitri/fsharp/greeting/myGreetingApp/myGreetingApp.fsproj",
+  "expectedPackageFiles": [
+    "/home/dmitri/.nuget/packages/fsharp.core/4.7.2/fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
