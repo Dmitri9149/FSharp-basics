@@ -1,8 +1,10 @@
-﻿// Learn more about F# at http://fsharp.org
+﻿module Tuples = 
 
-open System
+    let tuple1 = (1,2,3)
 
-[<EntryPoint>]
-let main argv =
-    printfn "Hello World from F#!"
-    0 // return an integer exit code
+    // polymorphism
+    let swapElem (a,b) = (b,a) 
+
+    printf "The result of swapping (1,2) is %A\n" (swapElem(1,2)) 
+
+    
